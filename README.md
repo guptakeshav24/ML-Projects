@@ -7,4 +7,5 @@
 | Fraudulent claim detection | Logistic Regression and Random Forest | https://github.com/guptakeshav24/fraudulent_claim_detection |
 | Bike Sharing|Linear Regression| https://github.com/guptakeshav24/bike_sharing|
 | Lending Club|Exploratory Data Analysis|https://github.com/guptakeshav24/Lending_club_case_study|
+| Dog and Cats Classification| CNN | https://www.kaggle.com/code/guptakeshav24/dogs-vs-cats/|
 
